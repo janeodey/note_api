@@ -1,10 +1,5 @@
 [
   {
-    "id": 2,
-    "title": "God Loves Me",
-    "content": "The LORD works in a wonderful way"
-  },
-  {
     "id": 3,
     "title": "Third note of the day",
     "content": "This is the third note and i am happy that i am learning something "
@@ -23,5 +18,10 @@
     "id": "1777207812753",
     "title": "my little server",
     "content": "Dear server, please behave! I know you need answers"
+  },
+  {
+    "id": "1777211619599",
+    "title": "The potentiality of being a productive youth",
+    "content": "Being a youth is an interesting phase of one's life"
   }
 ]
